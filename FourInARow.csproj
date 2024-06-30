@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Game\AI\Brain.cs~RF75eb22.TMP" />
+    <None Remove="Game\AI\IsWinningMove.cs~RFcf4f88.TMP" />
+    <None Remove="Game\AI\IsWinningMove.cs~RFd2f128.TMP" />
+  </ItemGroup>
+
+</Project>
